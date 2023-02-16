@@ -1,0 +1,11 @@
+"this is the data contained in a file!"
+"This is another line of stuff."
+"Here's a third!"
+1
+1
+2
+3
+5
+8
+13
+21
