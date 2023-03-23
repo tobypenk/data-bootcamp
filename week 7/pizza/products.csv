@@ -1,0 +1,37 @@
+SKU,Name,Price,Category,Size,Ingredients,Launch
+PZ001,Margherita Pizza,10.99,Classic,Small,"Tomato Sauce, Fresh Mozzarella, Basil, Olive Oil",2018-01-01
+PZ002,Margherita Pizza,14.99,Classic,Medium,"Tomato Sauce, Fresh Mozzarella, Basil, Olive Oil",2018-01-01
+PZ003,Margherita Pizza,17.99,Classic,Large,"Tomato Sauce, Fresh Mozzarella, Basil, Olive Oil",2018-01-01
+PZ004,Margherita Pizza,20.99,Classic,Extra Large,"Tomato Sauce, Fresh Mozzarella, Basil, Olive Oil",2018-01-01
+PZ005,Pepperoni Pizza,12.99,Classic,Small,"Tomato Sauce, Mozzarella, Pepperoni",2018-01-01
+PZ006,Pepperoni Pizza,16.99,Classic,Medium,"Tomato Sauce, Mozzarella, Pepperoni",2018-01-01
+PZ007,Pepperoni Pizza,19.99,Classic,Large,"Tomato Sauce, Mozzarella, Pepperoni",2018-01-01
+PZ008,Pepperoni Pizza,23.99,Classic,Extra Large,"Tomato Sauce, Mozzarella, Pepperoni",2018-01-01
+PZ009,Hawaiian Pizza,11.99,Classic,Small,"Tomato Sauce, Mozzarella, Pineapple, Ham",2018-01-01
+PZ010,Hawaiian Pizza,15.99,Classic,Medium,"Tomato Sauce, Mozzarella, Pineapple, Ham",2018-01-01
+PZ011,Hawaiian Pizza,18.99,Classic,Large,"Tomato Sauce, Mozzarella, Pineapple, Ham",2018-01-01
+PZ012,Hawaiian Pizza,23.99,Classic,Extra Large,"Tomato Sauce, Mozzarella, Pineapple, Ham",2018-01-01
+PZ013,Meat Lover's Pizza,13.99,Classic,Small,"Tomato Sauce, Mozzarella, Sausage, Bacon, Pepperoni",2019-01-01
+PZ014,Meat Lover's Pizza,18.99,Classic,Medium,"Tomato Sauce, Mozzarella, Sausage, Bacon, Pepperoni",2019-01-01
+PZ015,Meat Lover's Pizza,21.99,Classic,Large,"Tomato Sauce, Mozzarella, Sausage, Bacon, Pepperoni",2019-01-01
+PZ016,Meat Lover's Pizza,25.99,Classic,Extra Large,"Tomato Sauce, Mozzarella, Sausage, Bacon, Pepperoni",2019-01-01
+PZ017,Veggie Pizza,11.99,Vegetarian,Small,"Tomato Sauce, Mozzarella, Mushrooms, Bell Peppers, Onions, Olives",2019-01-01
+PZ018,Veggie Pizza,15.99,Vegetarian,Medium,"Tomato Sauce, Mozzarella, Mushrooms, Bell Peppers, Onions, Olives",2019-01-01
+PZ019,Veggie Pizza,18.99,Vegetarian,Large,"Tomato Sauce, Mozzarella, Mushrooms, Bell Peppers, Onions, Olives",2019-01-01
+PZ020,Veggie Pizza,22.99,Vegetarian,Extra Large,"Tomato Sauce, Mozzarella, Mushrooms, Bell Peppers, Onions, Olives",2019-01-01
+PZ021,BBQ Chicken Pizza,12.99,Specialty,Small,"BBQ Sauce, Mozzarella, Grilled Chicken, Red Onions",2020-01-01
+PZ022,BBQ Chicken Pizza,16.99,Specialty,Medium,"BBQ Sauce, Mozzarella, Grilled Chicken, Red Onions",2020-01-01
+PZ023,BBQ Chicken Pizza,19.99,Specialty,Large,"BBQ Sauce, Mozzarella, Grilled Chicken, Red Onions",2020-01-01
+PZ024,BBQ Chicken Pizza,23.99,Specialty,Extra Large,"BBQ Sauce, Mozzarella, Grilled Chicken, Red Onions",2020-01-01
+PZ025,Buffalo Chicken Pizza,12.99,Specialty,Small,"Buffalo Sauce, Mozzarella, Grilled Chicken, Blue Cheese",2020-01-01
+PZ026,Buffalo Chicken Pizza,16.99,Specialty,Medium,"Buffalo Sauce, Mozzarella, Grilled Chicken, Blue Cheese","2020-01-01,"
+PZ027,Buffalo Chicken Pizza,19.99,Specialty,Large,"Buffalo Sauce, Mozzarella, Grilled Chicken, Blue Cheese","2020-01-01,"
+PZ028,Buffalo Chicken Pizza,23.99,Specialty,Extra Large,"Buffalo Sauce, Mozzarella, Grilled Chicken, Blue Cheese",2020-01-01
+PZ029,Sicilian Pizza,11.99,Vegetarian,Small,"Tomato Sauce, Mozzarella",2021-01-01
+PZ030,Sicilian Pizza,15.99,Vegetarian,Medium,"Tomato Sauce, Mozzarella",2021-01-01
+PZ031,Sicilian Pizza,18.99,Vegetarian,Large,"Tomato Sauce, Mozzarella",2021-01-01
+PZ032,Sicilian Pizza,22.99,Vegetarian,Extra Large,"Tomato Sauce, Mozzarella",2021-01-01
+PZ033,Oxtail Pizza,12.99,Specialty,Small,"Tomato Sauce, Mozzarella, Oxtail",2021-01-01
+PZ034,Oxtail Pizza,16.99,Specialty,Medium,"Tomato Sauce, Mozzarella, Oxtail",2022-01-01
+PZ035,Oxtail Pizza,19.99,Specialty,Large,"Tomato Sauce, Mozzarella, Oxtail",2022-01-01
+PZ036,Oxtail Pizza,23.99,Specialty,Extra Large,"Tomato Sauce, Mozzarella, Oxtail",2022-01-01
